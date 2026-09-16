@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Engineering Student
+- 🎓 Engineering Student at JSSATE - BENGALURU
 - 🐍 Building projects with Python
 - 🧠 Learning OOP, SOLID Principles & Exception Handling
 - 🌐 Exploring HTML, CSS, JavaScript & React
