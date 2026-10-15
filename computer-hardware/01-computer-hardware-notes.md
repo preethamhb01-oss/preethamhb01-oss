@@ -2,7 +2,7 @@
 ## Let's Understand Computers From Zero!
 
 **Format:** Beginner-friendly YouTube video  
-**Language:** English  
+**Language:** KANNADA AND ENGLISH  
 **Audience:** People with little or no computer background  
 **Episode goal:** Introduce a computer setup, explain its basic parts, and share the vision for the PreeTech series.
 
