@@ -106,21 +106,8 @@ If you are curious about technology, this series is for you. Let's learn togethe
 
 ---
 
-## Suggested video flow
 
-| Approx. time | Content |
-|---|---|
-| 0:00–0:35 | Hook and what a computer is |
-| 0:35–1:15 | Show the full desktop setup |
-| 1:15–1:55 | Monitor |
-| 1:55–2:35 | Keyboard |
-| 2:35–3:15 | Mouse |
-| 3:15–4:20 | Cabinet and a simple overview of what's inside |
-| 4:20–5:00 | How the parts work together |
-| 5:00–5:45 | PreeTech series aim |
-| 5:45–6:00 | Motivational quote and closing |
 
-*Timings are flexible. Speak clearly, pause between sections, and use the pictures as visual aids.*
 
 ## Image credits and licensing
 
