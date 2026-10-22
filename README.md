@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Preetham H B
 
-### 💻 Engineering Student | 🐍 Python Developer | 🚀 Future Software Engineer
+### 💻 Engineering Student | 🐍 Python Developer |  AI ENGINEER MILE STONE | 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Python+Developer+%F0%9F%90%8D;Building+Projects+%F0%9F%9A%80;Learning+Web+Development+%F0%9F%8C%90;Always+Learning+%26+Improving+%F0%9F%94%A5" />
 
