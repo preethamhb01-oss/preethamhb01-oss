@@ -140,13 +140,7 @@ My Python learning journey containing practice programs and experiments.
 
 ---
 
-## 🐍 My Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/preethamhb01-oss/preethamhb01-oss/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
 
 ---
 
